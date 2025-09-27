@@ -58,7 +58,7 @@ Songs with similar vibes often use comparable vocabulary and language patterns. 
 <br>TF-IDF vectorization for semantic similarity matching
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/data-quality.png" alt="Insights"/>
+<img src="https://img.icons8.com/color/96/inspection.png" alt="Insights"/>
 <br><b>📊 Production Insights</b>
 <br>Identified 97% data quality issues - real-world learning!
 </td>
@@ -363,7 +363,7 @@ Our analysis uncovered a fundamental truth about real-world data science:
 ## 🔮 **Future Roadmap & Enhancements**
 
 <div align="center">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Future Tech"/>
+<img src="https://media.giphy.com/media/l46CyJmS9KUbokzsI/giphy.gif" width="400" alt="Future Vision"/>
 </div>
 
 ### 🚀 **Phase 2: Data Engineering Revolution**
